@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <script>
-    location.replace('http://106.14.204.179/');
+    location.href = "www.baidu.com"
 </script>
 <body>
 </body>
